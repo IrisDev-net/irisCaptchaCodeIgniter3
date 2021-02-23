@@ -1,4 +1,4 @@
 ###################
-CodeIgniter 3 Freamwork With Captcha Library
+CodeIgniter 3 Freamwork With IrisDevCaptcha Library
 ###################
 
